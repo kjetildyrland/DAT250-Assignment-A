@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T13:53:29.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="xLFyPOjAcFJC2WN-q1s9" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T13:54:22.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="sfAMwTHethpekNSOdPBn" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1186" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,13 +74,10 @@
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oB9n6B82O5-6xETH8oqq-0" value="Vote" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="300" width="140" height="80" as="geometry" />
+          <mxGeometry x="480" y="300" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hXLZhd4-AniMYX_J1uz3-0" value="Red" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oB9n6B82O5-6xETH8oqq-0">
+        <mxCell id="hXLZhd4-AniMYX_J1uz3-0" value="Color" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oB9n6B82O5-6xETH8oqq-0">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oB9n6B82O5-6xETH8oqq-1" value="Green" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="oB9n6B82O5-6xETH8oqq-0" vertex="1">
-          <mxGeometry y="52" width="140" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
